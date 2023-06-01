@@ -1,0 +1,14 @@
+body {
+  font-family: helvetica, arial, sans-serif;
+  font-size: 12px;
+  color: #000;
+}
+
+#button {
+  display: block;
+}
+
+#info {
+  padding: 5px;
+  background: rgba(255, 255, 255, .3);
+}
